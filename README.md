@@ -10,6 +10,3 @@ Is an essential tool for the intelligent management of ethers and tokens. With i
 
 [Live project](https://wallet-tools.vercel.app)
 
-## Preview
-
-[![IMAGE ALT TEXT HERE](./assets/project.png)](https://youtu.be/fwqNHlD1dEM)
